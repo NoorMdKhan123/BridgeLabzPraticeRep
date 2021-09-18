@@ -1,5 +1,5 @@
 cool
-
+The changes
 <<<<<<< HEAD
 Hi "This is local file"
 =======
