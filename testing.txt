@@ -1,1 +1,8 @@
+cool
+
+<<<<<<< HEAD
 Hi "This is local file"
+=======
+Hi
+Chnages in remote
+>>>>>>> 791fba41b233074c5d9d255ea6e1c6f5d9865a9c
